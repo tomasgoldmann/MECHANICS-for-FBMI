@@ -1,13 +1,5 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "cf918097-e43e-4c5e-96bc-39a62b30f578",
-   "metadata": {
-    "jp-MarkdownHeadingCollapsed": true
-   },
-   "source": [
-    "# Úvod do mechaniky\n",
+
+Úvod do mechaniky
     "\n",
     "## Co je to mechanika?\n",
     "---\n",
