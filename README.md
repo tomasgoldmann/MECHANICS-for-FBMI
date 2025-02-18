@@ -1,2 +1,2 @@
 # MECHANICS-for-FBMI
-Materials for lectures and exercises in mechanics at FBMI CTU in Prague
+Materials for lectures and exercises in Mechanics at FBMI CTU in Prague
